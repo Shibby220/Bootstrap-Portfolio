@@ -1,0 +1,62 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    height: 75px;
+    padding: 20px;
+    padding-left: 45px;
+    width: 200px;
+    margin-top: -10px;
+    margin-bottom: -7px;
+    margin-left: -15px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+h1 {
+    
+    color: #4aaaa5;
+}
+
+.image {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.p1 {
+    float: right;
+}
+
+#main-container{
+    clear: both;
+    overflow: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+}
+
+.navbar-footer{
+    background-color: #666666;
+    width: 100%;
+    margin-top: -8px;
+    height: 100%;
+    text-align: center;
+    padding: 30px;
+}
+
+body {
+    background: url("https://mifbi.org/wp-content/uploads/2018/12/light-gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_be-2qbqqkl_thumbnail-full01.png?w=640") no-repeat center center fixed;
+}
+
+
+
+
